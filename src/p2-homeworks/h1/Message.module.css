@@ -1,0 +1,63 @@
+.message {
+    display: grid;
+    grid-template-rows: auto 2fr;
+    grid-template-areas: "avatar text";
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+}
+
+.avatar img {
+   grid-area: avatar;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+
+.textMessage {
+    grid-area: text;
+    background: darkolivegreen;
+    padding: 1em 1.5em;
+    border-radius: 10px 10px 10px 0px;
+    position: relative;
+    margin-left: 40px;
+}
+.tooltiptail {
+    position: absolute;
+    left: -47px;
+    bottom: -2px;
+    width: 1px;
+    height: 1px;
+    border-radius: 25px;
+    border-color: white;
+    background-color: white ;
+    border-style: solid;
+    border-width: 23px;
+
+}
+.tooltiptail1 {
+    position: absolute;
+    left: -35px;
+    bottom: 0px;
+    border-color: transparent transparent darkolivegreen transparent;
+    border-style: solid;
+    border-width: 30px;
+    width: 0px;
+    height: 0px;
+}
+
+.name {
+    font-size: x-large;
+    color: chartreuse;
+    padding-bottom: 5px;
+}
+.time {
+    font-size: x-large;
+    text-align: right;
+    color: chartreuse;
+    padding: 10px 0px;
+}
+
+
