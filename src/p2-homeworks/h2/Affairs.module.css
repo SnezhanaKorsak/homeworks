@@ -1,0 +1,33 @@
+.button {
+    width: 50px;
+    margin: 7px;
+    padding: 2px;
+}
+
+.button:active {
+    background: lightskyblue;
+}
+.active {
+    background: cornflowerblue;
+}
+
+.affair {
+ display: flex;
+}
+
+.item {
+    margin: 10px;
+    width: 100px;
+}
+
+.high {
+    color: red;
+}
+
+.middle {
+    color: green;
+}
+
+.low {
+    color: orange;
+}
