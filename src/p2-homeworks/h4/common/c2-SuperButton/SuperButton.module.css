@@ -1,0 +1,31 @@
+.button {
+    width: 80px;
+    height: 30px;
+    margin: 15px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    box-shadow: 0 5px 0 darkslategrey;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    background: #003CC5;
+    box-shadow: none;
+    position: relative;
+    top: 5px;
+}
+
+
+.default {
+    background: #555;
+    color: whitesmoke;
+    outline: none;
+}
+.red {
+    background: red;
+}
+
+
+

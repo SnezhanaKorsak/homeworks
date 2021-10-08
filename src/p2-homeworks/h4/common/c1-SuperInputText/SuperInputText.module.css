@@ -1,0 +1,24 @@
+
+.input:focus {
+    outline: none;
+    border: 1px solid whitesmoke;
+}
+
+.superInput {
+    margin: 20px;
+    background: darkgray;
+    border: 1px solid dimgrey;
+    border-radius: 4px;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.errorInput {
+    border: 3px solid lime;
+    background: red;
+}
+
+.error {
+    color: red;
+}
