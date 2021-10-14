@@ -1,0 +1,46 @@
+.header {
+    margin-left: -340px;
+    transition-property: margin-left;
+    transition-delay: .40s;
+}
+
+.header:hover {
+    margin-left: 0;
+}
+
+.headerLinks {
+    display: inline-block;
+    width: 340px;
+    height: 40px;
+    background: #556b2f;
+}
+
+.headerLinks a {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: white;
+    margin: 10px;
+    line-height: 40px;
+}
+
+.headerLinks .active {
+    font-weight: bold;
+    color: lightgreen;
+}
+
+.headerLinks a:hover {
+    color: #ffa000;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.arrow {
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    width: 0;
+    height: 0;
+    border-color: transparent transparent transparent #556b2f;
+    border-style: solid;
+    border-width: 20px;
+}

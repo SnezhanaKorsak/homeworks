@@ -32,7 +32,7 @@
     height: 1px;
     border-radius: 25px;
     border-color: lightgrey;
-    background-color: lightgrey;
+    background-color: white;
     border-style: solid;
     border-width: 23px;
 
@@ -41,25 +41,25 @@
 .tooltiptail1 {
     position: absolute;
     left: -35px;
-    bottom: 0px;
+    bottom: 0;
     border-color: transparent transparent darkolivegreen transparent;
     border-style: solid;
     border-width: 30px;
-    width: 0px;
-    height: 0px;
+    width: 0;
+    height: 0;
 }
 
 .name {
     font-size: x-large;
-    color: chartreuse;
+    color: lightgreen;
     padding-bottom: 5px;
 }
 
 .time {
     font-size: x-large;
     text-align: right;
-    color: chartreuse;
-    padding: 10px 0px;
+    color: lightgreen;
+    padding: 10px 0;
 }
 
 

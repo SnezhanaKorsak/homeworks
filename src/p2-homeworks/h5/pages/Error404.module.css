@@ -1,0 +1,26 @@
+.error {
+    width: 1000px;
+    height: 650px;
+    border: 10px gray double;
+    margin: 30px auto;
+    padding-left: 50px;
+}
+
+.errorType {
+    font-size: 8em;
+    color: gray;
+}
+
+.errorMessage {
+    font-size: 1.4em;
+}
+
+.errorImage {
+    position: relative;
+    bottom: 120px;
+    right: -500px;
+}
+
+.error a {
+    color: #003CC5;
+}
