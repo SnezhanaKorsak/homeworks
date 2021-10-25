@@ -1,6 +1,6 @@
 .error {
     width: 1000px;
-    height: 650px;
+    height: 450px;
     border: 10px gray double;
     margin: 30px auto;
     padding-left: 50px;
@@ -15,9 +15,10 @@
     font-size: 1.4em;
 }
 
-.errorImage {
+.errorImage img {
+    height: 380px;
     position: relative;
-    bottom: 120px;
+    bottom: 220px;
     right: -500px;
 }
 
