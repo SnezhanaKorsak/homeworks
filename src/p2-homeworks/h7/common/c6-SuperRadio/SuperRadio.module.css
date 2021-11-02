@@ -1,0 +1,14 @@
+.radio {
+    width: 108px;
+    margin-left: 10px;
+    padding: 5px;
+    border-top: none;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    background: burlywood;
+}
+
+.option {
+    margin: 3px;
+}

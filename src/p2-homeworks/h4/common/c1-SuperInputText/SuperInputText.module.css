@@ -5,7 +5,8 @@
 }
 
 .superInput {
-    width: 170px;
+    width: 150px;
+    height: 35px;
     margin: 20px;
     background: darkgray;
     border: 1px solid dimgrey;
