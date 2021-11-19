@@ -1,0 +1,27 @@
+.peopleList {
+    display: flex;
+    justify-content: space-between;
+    width: 246px;
+    border: 1px solid #2c3131;
+    border-bottom: none;
+    margin-left: 15px;
+    padding: 0 5px 2px 5px ;
+    background: #b2c9f0;
+}
+
+.buttonBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 250px;
+    height: 45px;
+    border: 4px double #2c3131;
+    margin-left: 15px;
+background: #a7b3d6;
+}
+
+.buttonBlock button {
+    margin: 5px;
+    width: 70px;
+    font-size: 0.7em;
+}
