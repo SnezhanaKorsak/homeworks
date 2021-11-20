@@ -1,0 +1,29 @@
+.block {
+    width: 140px;
+    height: 110px;
+    border: 1px solid #2c3131;
+    background: #a7b3d6;
+    border-radius: 4px;
+    margin: 15px;
+}
+.block button {
+    height: 20px;
+    width: 50px;
+    margin: 0 5px  10px 10px;
+    font-size: 0.7em;
+}
+.timeBlock {
+    width: 120px;
+    height: 50px;
+    border: 1px solid #2c3131;
+    border-radius: 10px;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 1.2em;
+    background: black;
+    color: white;
+}
+.dateBlock {
+    font-size: 0.9em;
+    line-height: 20px;
+}
