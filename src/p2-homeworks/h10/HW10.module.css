@@ -1,0 +1,21 @@
+.preloader {
+    width: 100px;
+    height: 100px;
+    margin: 5px 0 5px 20px;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    margin: 5px 0 5px 20px;
+    line-height: 75px;
+}
+
+.button button {
+    margin: 7px 0 5px 10px;
+    font-size: 0.8em;
+}
+.preloader img{
+    width: 100px;
+    height: 100px;
+}
