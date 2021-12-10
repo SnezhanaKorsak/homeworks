@@ -1,0 +1,10 @@
+.range {
+    margin: 10px;
+    width: 260px;
+}
+
+.valueRange {
+    display: inline-block;
+    width: 15px;
+    text-align: center;
+}
