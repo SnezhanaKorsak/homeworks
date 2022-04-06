@@ -13,9 +13,6 @@ function Junior() {
             <HW9/>
             <HW10/>
             <HW11/>
-
-
-
         </div>
     )
 }

@@ -4,19 +4,16 @@
     cursor: pointer;
 }
 .checkbox {
-appearance: none;
+/*appearance: none;*/
     width: 20px;
     height: 20px;
     margin-right: 10px;
-    background: whitesmoke;
 }
 .checkbox:focus {
-    outline: 1px solid gray;
+    outline: none;
 }
 .checkbox:checked {
-    appearance: none;
-    background: #9999ff;
-
+    background: cornflowerblue;
 }
 .spanClassName {
 
